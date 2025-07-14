@@ -1,0 +1,19 @@
+[General]
+gameName=f76
+modID=140
+fileID=3601
+url=
+name=EVB 76 - AIO (BA2)
+description="All-in-one BA2 archives. Contain the nude and nevernude variant of male/female meshes and textures (swimsuits nude replacement not included, see optional files)."
+modName=Enhanced Vanilla Bodies 76
+version=f1.02
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=4
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

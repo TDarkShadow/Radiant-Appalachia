@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=1161
+fileID=6695
+url=
+name=NO STUN
+description=Strong enemy attacks no longer interfere with your movement and attack
+modName=
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=7
+category=8
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

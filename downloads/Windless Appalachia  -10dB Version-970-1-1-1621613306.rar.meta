@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=970
+fileID=5791
+url=
+name=Windless Appalachia  -10dB Subtle Version
+description="-10dB Subtle Version if you still want to feel some Appalachian wind breeze in your Hair. (Recommended Version, but just check both -20/10dB's and pick your sweet spot)"
+modName=Windless Appalachia
+version=1.1.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=12
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

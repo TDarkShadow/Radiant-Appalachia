@@ -1,0 +1,19 @@
+[General]
+gameName=f76
+modID=151
+fileID=12944
+url=
+name=Text Chat
+description=Extract ChatMod.ba2  to your Fallout 76 Data directory.\n<br /><br />Extract dxgi.dll from SFE to your Fallout76 directory.\n<br /><br />Be sure to also add the archive's name to your Fallout76Custom.ini file (or download under Optional files.)
+modName=Text Chat (Now with Clans)
+version=who-knows-part2
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=5
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

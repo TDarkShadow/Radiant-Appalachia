@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=546
+fileID=17062
+url=
+name=Quick Configuration v1.12.8
+description="Portable, *.zip\n<br />\n<br />(Setup available on GitHub mirror)"
+modName=Fallout 76 Quick Configuration - INI-Editor and Mod Manager
+version=1.12.8.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=6
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

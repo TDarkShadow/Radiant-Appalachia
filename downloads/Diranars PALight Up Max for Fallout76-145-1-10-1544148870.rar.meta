@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=145
+fileID=553
+url=
+name=Diranars PALight Up Max for Fallout76
+description="This Mod alters the light field output of the Standart Powerarmor Helmet Lamp. \n<br /><br />This is the Maximum Light Spot Version, and its much smaller than the other.\n<br /><br />See the Picture for comparision the effect before/after the mod."
+modName=Diranars Power Armor Light Up.
+version=1.10.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=4
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=513
+fileID=4960
+url=
+name=intRaw Reborn (Patch 1.5.0.19)
+description="ba2, add to sResourceArchive2List in Fallout76Custom.ini"
+modName=intRaw Reborn
+version=1.5.0.19
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=5
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

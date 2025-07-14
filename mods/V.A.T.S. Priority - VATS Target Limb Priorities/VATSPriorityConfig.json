@@ -1,0 +1,21 @@
+{
+	"debug": 1,
+	"lockPriorityTarget": false,
+	"defaultPriority": "HEAD",
+	"priorities": {
+		"SENTRY BOT": "FUSION CORE",
+		"TURRET": "BARREL",
+		"HANDY": "THRUSTER",
+		"ULTRACITE TERROR": "RIGHTEYE",
+		"FLOATER": "EYES",
+		"STORM GOLIATH": "GLASS",
+		"EYEBOT": "BACK PANEL",
+		"REPAIR BOT": "BACK PANEL",
+		"CARGOBOT": "BOOSTER",
+		"VERTIBIRD": "CABIN",
+		"GUARDIAN": "ULTRAGENETIC SHIELD",
+		"GRAFTON MONSTER": "BLOWHOLE",
+		"RADSCORPION": "FACE",
+		"MIRELURK QUEEN": "SPOUTS"
+	}
+}

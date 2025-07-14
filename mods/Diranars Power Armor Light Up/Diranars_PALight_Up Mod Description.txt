@@ -1,0 +1,35 @@
+This Mod alters the light field output of the Standart Powerarmor Helmet Lamp.
+
+See the Picture for comparision the effect before/after the mod.
+
+
+Description :
+---------------
+
+I was always more into Exploring without Power Armor, because the normal Pip Boy light illuminates the Surrounding so much better, than the little crappy Power Armor Headlamp. 
+This Mod addresses this and makes the Standart Power Armor Helmet Lamp light up a much bigger Space than before, so that you don't miss any more Loot, cause it was too Dark, to see all the little thingies.
+
+
+Installation:
+--------------
+
+1. Extract .ba2 file into your Data folder
+2. Edit your Fallout76Custom.ini file by adding Diranars_PALight_Up.ba2 to the SResourceArchiveList2 line. 
+
+For a unmodded Fallout76Custom.ini, it should be like this:
+
+[Archive]
+sResourceArchive2List = SeventySix - ATX_Main.ba2, SeventySix - ATX_Textures.ba2, Diranars_PALight_Up.ba2
+
+3. Start up Fallout76 and enjoy your new much better Power Armor Helmet Lamp !
+
+
+
+De-Installation :
+------------------
+
+1. Delete the Diranars_PALight_Up.ba2 from your Fallout76/Data Directory
+
+2. Remove the Diranars_PALight_Up.ba2 from the Archive Line in the Fallout76Custom.ini
+
+3. Done

@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=146
+fileID=9771
+url=
+name=IconSortingTags (En-De-Es-Esmx-Fr-It-Pl-Ptbr-Ru)
+description="Important : requires xTranslator 1.3.9+\n<br />Contains Interface files for En-De-Es-Esmx-Fr-It-Pl-Ptbr-Ru.\n<br />Please, carefully read the description to understand how to install this."
+modName=IconSortingTags
+version=2.7.6.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=5
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

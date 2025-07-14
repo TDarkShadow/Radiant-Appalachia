@@ -1,0 +1,19 @@
+[General]
+installed=true
+removed=true
+uninstalled=false
+gameName=Fallout76
+modID=287
+fileID=17156
+url=
+name=SFE
+description="Extract to your Fallout76 folder, NOT the Data folder."
+modName=SFE
+version=0.0.105.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=3
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+paused=false

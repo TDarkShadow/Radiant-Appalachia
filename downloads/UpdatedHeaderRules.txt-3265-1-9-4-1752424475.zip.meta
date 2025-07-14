@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=3265
+fileID=17622
+url=
+name=UpdatedHeaderRules.txt
+description="Some missing icons have been added to CAMP items, such as switchable lights, buff machines, collectrons and collectors."
+modName=IconSortingTags Rules Update
+version=1.9.4.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=5
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

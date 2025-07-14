@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout4
+modID=17061
+fileID=266504
+url=
+name=BSA Browser
+description="Download <a href=\"http://www.7-zip.org/\">7-Zip</a> if you can't open the file."
+modName=BSA Browser (with .BA2 support)
+version=1.17.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=38
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

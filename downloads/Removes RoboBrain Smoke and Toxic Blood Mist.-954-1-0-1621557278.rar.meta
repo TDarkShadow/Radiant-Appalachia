@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout76
+modID=954
+fileID=5790
+url=
+name=Removes RoboBrain Smoke and Toxic Blood Mist.
+description=This file removes both the Toxic Blood Mist and RoboBrain Smoke Bomb effects in one convenient install.
+modName=Remove RoboBrain Smoke and Toxic Blood Mist effects.
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=11
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

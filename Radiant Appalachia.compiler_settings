@@ -1,0 +1,49 @@
+{
+  "ModlistIsNSFW": false,
+  "Source": "Z:\\Modding\\ModOrganizer2\\RadiantAppalachia",
+  "Downloads": "Z:\\Modding\\ModOrganizer2\\RadiantAppalachia\\downloads",
+  "Game": "Fallout76",
+  "OutputFile": "Z:\\Modding\\ModOrganizer2\\RadiantAppalachia\\RadiantAppalachia.wabbajack",
+  "ModListImage": "Z:\\Modding\\ModOrganizer2\\RadiantAppalachia\\banner.png",
+  "UseGamePaths": false,
+  "UseTextureRecompression": false,
+  "OtherGames": [],
+  "MaxVerificationTime": "00:01:00",
+  "ModListName": "Radiant Appalachia",
+  "ModListAuthor": "TDarkShadow",
+  "ModListDescription": "A small modlist containing various QoL mods for Fallout 76.",
+  "ModListReadme": "",
+  "ModListWebsite": "",
+  "ModListCommunity": "",
+  "ModlistVersion": "0.0.1.0",
+  "PublishUpdate": false,
+  "MachineUrl": "TDarkShadow/RadiantAppalachia",
+  "Profile": "Radiant Appalachia - Max Screen Clutter",
+  "AdditionalProfiles": [
+    "Radiant Appalachia - Lite"
+  ],
+  "NoMatchInclude": [
+    "dlls",
+    "translations",
+    "plugins\\basic_games",
+    "plugins\\plugin_python",
+    "plugins\\game_fo4london.dll"
+  ],
+  "Include": [
+    "banner.png"
+  ],
+  "Ignore": [
+    ".git",
+    "crashDumps",
+    "debug.log",
+    "logs",
+    "nxmhandler.log",
+    "RadiantAppalachia.wabbajack.meta.json",
+    "RadiantAppalachia.wabbajack",
+    "shortcutter_log.txt",
+    ".gitignore"
+  ],
+  "AlwaysEnabled": [],
+  "Version": "0.0.5",
+  "Description": null
+}

@@ -1,0 +1,19 @@
+[General]
+gameName=f76
+modID=1259
+fileID=7375
+url=
+name=Better Pip-Boy Light
+description=
+modName=Better Pip-Boy Light
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=4
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
