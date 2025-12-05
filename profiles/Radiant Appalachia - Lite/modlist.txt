@@ -80,7 +80,7 @@
 -Silent Score
 +Windless Appalachia -10dB Subtle Version
 -Audio_separator
-+HD Reflections - Quality CubeMaps - HD Cube Maps
++Willow's Immersive Doors - Willow's Choice
 +Glowing Scorched - Green 75%
 -Better Personal Terminals v2
 +Nuka-Cola Machine Glass Door Fix
